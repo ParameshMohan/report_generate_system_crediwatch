@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+ 
+
+}
+
+.button{
+ 
+    
+    height: 4em;
+    align-items: center;
+    justify-content: center;
+    font-weight: lighter;
+    font-size: 1.rem;
+    outline: 1px solid #888;
+    height: 4em;
+    background-color: #c5c3cd;
+}
+

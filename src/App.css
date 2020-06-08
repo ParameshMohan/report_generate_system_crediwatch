@@ -5,8 +5,7 @@
 }
 
 .button{
- 
-    
+ visibility: visible;
     height: 4em;
     align-items: center;
     justify-content: center;
@@ -14,6 +13,6 @@
     font-size: 1.rem;
     outline: 1px solid #888;
     height: 4em;
-    background-color: #c5c3cd;
+    background-color: #38e0f7;
 }
 
